@@ -2,8 +2,8 @@
  <div>
   <p float="left">
    <a href="https://github.com/joutavm">
-   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=joutavm&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joutavm&layout=compact&langs_count=7&theme=onedark"/>
+   <img width="500px" src="https://github-readme-stats.vercel.app/api?username=joutavm&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joutavm&layout=compact&langs_count=7&theme=onedark"/>
   </p>
 </div>
   
