@@ -1,4 +1,4 @@
- ## Eu sou o Jão!
+ ## I'm Jão!
  <div>
   <p float="left">
    <a href="https://github.com/joutavm">
